@@ -1,0 +1,21 @@
+City,Total Days,Poor Days,AQImedian,Zone
+Seattle,306,14,42,West
+San Francisco,314,22,45,West
+Los Angeles,275,119,81,West
+Denver,366,34,58,Mountain
+Salt Lake City,366,21,50,Mountain
+Phoenix,366,70,75,Mountain
+Chicago,366,28,56,Central
+St. Louis,366,10,52,Central
+Dallas,306,24,49,Central
+Boston,306,0,42,East
+Washington D.C.,366,3,42,East
+Miami,275,2,44,East
+Crescent City,264,9,32,West
+La Grande,366,9,19,West
+Idaho Falls,365,5,40,Mountain
+Yuma,366,3,44,Mountain
+Topeka,366,4,39,Central
+St.Cloud,336,0,33,Central
+Barnstable,350,2,35,East
+Providence,366,4,42,East
